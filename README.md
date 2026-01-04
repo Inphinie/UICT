@@ -20,7 +20,6 @@
 ## 📂 Contents
 
 **`docs/theory_core.md`**: The full scientific manifesto explaining Dark Matter, Gravity, and Consciousness as compression phenomena.
-* **`poc/mass_quantization.py`**: Python script verifying the electron's recursion depth ($n=43$).
 * **`FORMULAS.md`**: The immutable mathematical reference.
 
 ## 🧪 Key Validations
