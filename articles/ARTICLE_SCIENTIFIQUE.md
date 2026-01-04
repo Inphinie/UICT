@@ -240,3 +240,4 @@ The universe *is* information, evolving under Dirac-like compression laws.**
 # **10. Acknowledgements**
 
 The author thanks the broader scientific community exploring information-theoretic physics, and the emerging dialogue between computation, quantum theory, and cosmology.
+---
